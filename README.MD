@@ -117,3 +117,14 @@ Therefore, we will build another model with the main objective of identifying im
 After identifying important predictors, display them visually - we can use plots, summary tables etc. - whatever we think best conveys the importance of features.
 
 Finally, recommend strategies to manage customer churn based on our observations.
+
+## Fearure Engineering
+- RFE
+- Manual
+- PCA
+
+## Algorithm Used
+- Logistic Regression
+- Decesion Tree
+- Random Forest
+- XGBoost
